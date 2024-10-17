@@ -1,5 +1,5 @@
-''' THIS WILL BE USED WITH EACH STOCK'S OWN BUY AND SELL METHODS'''
-
+''THIS WILL BE USED WITH EACH STOCK'S OWN BUY AND SELL METHODS'''
+''UPDATE""
 import requests, json
 from config import * # config file
 import tkinter as tk
